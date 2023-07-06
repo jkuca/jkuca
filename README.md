@@ -1,5 +1,5 @@
 <h1>Hi, I'm Kuba 👋</h1>
-<h3 >I'd like to become a Junior Full Stack Developer</h3>
+<h3 >I am Junior Full Stack Developer</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="160" height="160"/> </a> 
 
 <h1>About Me:</h1>
