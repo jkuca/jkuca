@@ -1,13 +1,11 @@
 <h1>Hi, I'm Kuba 👋</h1>
-<h3 >I am Junior Full Stack Developer</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="160" height="160"/> </a> 
-
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="160" height="160"/>
 <h1>About Me:</h1>
 
 
 - 🔭 I’m currently working on  getting my first commercial experience as Junior Full Stack Dev.
-- 📫 How to reach me https://www.linkedin.com/in/jakub-kuba-kuca/
-
+ - 📫 Contact me: linkedin.com/in/jkuca/
 
 <h1>🛠️ Technologies:</h1>
 
@@ -40,8 +38,15 @@
     <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/106514250/249832467-e7c36496-63b0-4556-9e32-3c2e3011453b.png" alt="" width="40" height="40"/> </a> 
         <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/106514250/249832452-0d1bf6e4-50ff-47f5-bd11-633690ddc156.png" alt="jirra" width="40" height="40"/> </a> 
             <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/106514250/249832480-d4b82ba2-ef3a-4e64-ac82-06405070c1de.png" alt="jirra" width="40" height="40"/> </a> 
-<h2>🔥Skills/Stats</h2>
-     <a href="" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/jkuca/badges/large" alt="" width="400" height="60"/> </a> 
+
+## 🏆 Statistics
+
+![Codewars](https://www.codewars.com/users/jkuca/badges/large)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkuca&hide_progress=false&hide_border=true&layout=compact)](https://github.com/jkuca)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=jkuca)
+
 
 
 
