@@ -4,7 +4,7 @@
 <h1>✨ About Me:</h1>
 
 - 🔍 Currently, I am looking for my first commercial experience as Junior Full Stack Dev.
-- 📫 Contact me: linkedin.com/in/jakub-kuba-kuca/
+- 📫 Contact me: linkedin.com/in/jms10000/
 
 <h1>🛠️ Technologies:</h1>
 
