@@ -45,7 +45,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkuca&hide_progress=false&hide_border=true&layout=compact)](https://github.com/jkuca)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jkuca)
+
 
 
 
